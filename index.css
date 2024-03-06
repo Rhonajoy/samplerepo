@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+.circle{
+    border-radius: 50%;
+    height: 100px;
+    width:100px;
+}
+h3{
+    font-size: 20px;
+    color: white;
+}
+.form{
+    background-color: blue;
+}
+label{
+    font-size: 12px;
+    color: white;
+}
+button[type='submit']{
+    background-color: white;
+    min-height: 30px;
+    min-width: 120px;
+}
