@@ -17,8 +17,3 @@ label{
     font-size: 12px;
     color: white;
 }
-button[type='submit']{
-    background-color: white;
-    min-height: 30px;
-    min-width: 120px;
-}
